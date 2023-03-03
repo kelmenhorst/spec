@@ -129,6 +129,7 @@ If none of the signal server endpoints are blocked then we write:
 * `df-002-dnst`
 * `df-005-tcpconnect`
 * `df-006-tlshandshake`
+* `df-008-netevents`
 
 ## Semantics
 

@@ -95,6 +95,7 @@ Otherwise, we write:
 * `df-002-dnst` (since 2020-01-09 in ooni/probe-engine)
 * `df-005-tcpconnect`
 * `df-006-tlshandshake` (since 2020-01-11 in ooni/probe-engine)
+* `df-008-netevents`
 
 ## Semantics
 
