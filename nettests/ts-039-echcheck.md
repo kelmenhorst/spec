@@ -21,10 +21,10 @@ handshake.
 # Expected inputs
 
 - `input` (`string`; optional): a target URL that is unlikely to be blocked
- to connect to (e.g. `google.com`)
+ to connect to (e.g. `https://google.com`)
 
-The default implementation will use the domain `example.org` as
-the `input`.  
+The default implementation will use `https://crypto.cloudflare.com/cdn-cgi/trace` as
+the `input` (from version 0.1.2).
 
 # Test description
 
